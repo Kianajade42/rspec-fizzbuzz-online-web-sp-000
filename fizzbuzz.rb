@@ -5,7 +5,7 @@ def fizzbuzz(n)
     divisible_by_3(n)  and return 'fizz'
     divisible_by_5(n)  and return 'buzz'
     n
-  else 
-    return "nil" 
+  else
+    return "nil"
   end
   end
