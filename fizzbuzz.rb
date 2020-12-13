@@ -25,6 +25,6 @@ end
 def is_divisible_by(number, divisor)
   number % divisor == 0
   end
-  def is_not_divisible_by_three_or_five?(number, divisor)
+  def is_not_divisible_by(number, divisor)
     number % divisor == 3 || 5
   end
